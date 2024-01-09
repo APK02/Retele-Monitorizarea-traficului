@@ -1,0 +1,11 @@
+Cand porniti programul trebuie sa introduceti datele de inceput:
+-un id (cuprins intre 1 si 7)
+-viteza de daplasare
+Comenzi:
+-info <id> (pentru a schimba strada pe care va aflati)
+-speed <value> (pentru a schimba viteza de deplasare)
+-toggle <toggle> (<toggle> = vreme / sporturi /peco) ps: Penru a debifa aceste optiuni folositi iar comanda toggle
+-check all (pentru a bifa toate optiunile simultan)
+-uncheck all (pentru a debifa toate optiunile simultan)
+-show <to_show> (<to_show> = vreme / sporturi /peco) ps: Pentru a putea vedea informatii despre vreme / evenimente sportive / preturi la combustibil
+-anunt (pentru a trimite un anunt, apoi urmati instructiunile de pe ecran) ps: Veti face un anunt pe strada pe care va aflati. 
